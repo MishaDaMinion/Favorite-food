@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+   background-color:#a2fcde;
+}
+section{
+    background-color:#edc7fc;
+    
+    
+}
+img{
+   border:10px;
+    border:solid;
+    border-color:white;
+    width:350px;
+    height:350px;
+    
+       
+}
+img:hover{
+    size:400px;
+}
+ul{
+    
+  
+}
